@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhimanyukc" alt="abhimanyukc" /></a> </p>
 
 <img align= "right" alt="coding" width="400" src="https://qph.fs.quoracdn.net/main-qimg-358a6187398d459f26e5bbdc4460b7ee-c">
-- 🔭 I’m currently working on ****
+
 
 - 🌱 I’m currently learning ** reactjs**
 
