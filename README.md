@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhimanyukc</h1>
+<h1 align="center">Hi 👋, I'm Abhimanyu kc</h1>
 <h3 align="center">I am a full stack web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhimanyukc&label=Profile%20views&color=0e75b6&style=flat" alt="abhimanyukc" /> </p>
@@ -8,7 +8,7 @@
 <img align= "right" alt="coding" width="400" src="https://qph.fs.quoracdn.net/main-qimg-358a6187398d459f26e5bbdc4460b7ee-c">
 
 
-- 🌱 I’m currently learning ** nextjs and react in advance**
+- 🌱 I’m currently learning ** nextjs and graphql in advance**
 
 - 📫 How to reach me **abhidesign88@gmail.com**
 
