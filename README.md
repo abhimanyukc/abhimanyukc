@@ -8,7 +8,7 @@
 <img align= "right" alt="coding" width="400" src="https://qph.fs.quoracdn.net/main-qimg-358a6187398d459f26e5bbdc4460b7ee-c">
 
 
-- 🌱 I’m currently learning ** nextjs  in advance**
+- 🌱 I’m currently learning ** typescript  in advance**
 
 - 📫 How to reach me **abhidesign88@gmail.com**
 
